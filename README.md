@@ -6,4 +6,4 @@ Input very welcome.
 
 https://www.reddit.com/r/rust/comments/n2cmvd/there_are_a_lot_of_actor_framework_projects_on/
 
-./actor-frameworks.md
+[actor-frameworks.md](./actor-frameworks.md)
